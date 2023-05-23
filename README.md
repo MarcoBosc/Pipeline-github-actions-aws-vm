@@ -1,5 +1,5 @@
 # Pipeline using github Actions to provide a AWS VM
-A repository containing a pipeline configuration using GitHub Actions for deploying and managing AWS VM infrastructure.
+A repository containing a simple pipeline configuration using GitHub Actions for deploying and managing AWS VM infrastructure.
 
 # Pipeline GitHub Actions
 
