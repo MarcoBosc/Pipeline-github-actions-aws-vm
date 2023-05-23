@@ -4,7 +4,7 @@ resource "aws_key_pair" "key" {
 }
 
 resource "aws_instance" "vm" {
-  ami                         = "ami-0d527b8c289b4af7f"
+  ami                         = "ami-0889a44b331db0194"
   instance_type               = "t2.micro"
   key_name                    = aws_key_pair.key.key_name
   subnet_id                   = "subnet-0c5c9205f1bba9214"
